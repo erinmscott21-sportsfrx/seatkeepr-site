@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Seatkeepr">
+  <rect width="64" height="64" rx="14" fill="#0B0E12"/>
+  <rect x="5" y="17" width="16" height="20" rx="3" fill="#5E6874"/>
+  <rect x="4" y="40" width="18" height="6" rx="1.5" fill="#5E6874"/>
+  <rect x="24" y="17" width="16" height="20" rx="3" fill="#6FA8FF"/>
+  <rect x="23" y="40" width="18" height="6" rx="1.5" fill="#6FA8FF"/>
+  <rect x="43" y="17" width="16" height="20" rx="3" fill="#5E6874"/>
+  <rect x="42" y="40" width="18" height="6" rx="1.5" fill="#5E6874"/>
+</svg>

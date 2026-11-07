@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 84" role="img" aria-label="Seatkeepr">
+  <rect x="5" y="14" width="30" height="36" rx="5" fill="#C9D1DA"/>
+  <rect x="3" y="54" width="34" height="7" rx="1.5" fill="#C9D1DA"/>
+  <rect x="8" y="61" width="4" height="14" fill="#8B95A1"/>
+  <rect x="28" y="61" width="4" height="14" fill="#8B95A1"/>
+  <rect x="45" y="14" width="30" height="36" rx="5" fill="#1F5FBF"/>
+  <rect x="43" y="54" width="34" height="7" rx="1.5" fill="#1F5FBF"/>
+  <rect x="48" y="61" width="4" height="14" fill="#0B0E12"/>
+  <rect x="68" y="61" width="4" height="14" fill="#0B0E12"/>
+  <rect x="85" y="14" width="30" height="36" rx="5" fill="#C9D1DA"/>
+  <rect x="83" y="54" width="34" height="7" rx="1.5" fill="#C9D1DA"/>
+  <rect x="88" y="61" width="4" height="14" fill="#8B95A1"/>
+  <rect x="108" y="61" width="4" height="14" fill="#8B95A1"/>
+</svg>
